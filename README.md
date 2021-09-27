@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PIHU0822
+- I am a part time worker and Is the Techniacl Writer of Simnovus.
 - 👀 I’m interested in Mechatronics and Artficial Intelligence
 - 🌱 I’m currently learning Electronics and Telecommunication Engineering and learning HTML and CSS as well.
 - 💞️ I’m looking to collaborate on projects and Content related to the field of Technology.
